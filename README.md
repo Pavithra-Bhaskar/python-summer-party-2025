@@ -22,14 +22,6 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
 -  Hosted by: [Dawn Choo](https://www.linkedin.com/in/data-dawn/), [Sai Bysani](https://www.linkedin.com/in/saibysani18/), and [Jeremiah Clark](https://www.linkedin.com/in/jeremiahoclark/)
 
 
-## 🧠 Why I'm Doing This
-
-- To stay consistent with daily coding
-- To build practical, real-world Python skills
-- To document my learning in a structured, public way
-- To connect with a global community of coders
-
-
 ## 📈 Progress Tracker
  
 | Day | Topic / Brand | Challenge Description        | Code & Notes                    |
@@ -71,4 +63,16 @@ python-summer-party/
 - [Jeremiah Clark](https://www.linkedin.com/in/jeremiahoclark/)
 
 🔗 **Join the challenge here**: [www.interviewmaster.ai/python-party](https://www.interviewmaster.ai/python-party)
+
+---
+### 👤 Created By  
+**Pavithra Bhaskar**           🔗 [GitHub](https://github.com/Pavithra-Bhaskar) | [LinkedIn](https://www.linkedin.com/in/pavithra-bhaskar)
+
+💼 Learning Python & Data Science  
+☕ Powered by coffee and curiosity
+
+
+### 📌 License & Attribution  
+- 💻 Code and reflections authored by me.  
+- 📊 Challenge design and datasets provided by [Interview Master](https://www.interviewmaster.ai/).
 
