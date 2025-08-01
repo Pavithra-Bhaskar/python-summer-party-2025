@@ -26,7 +26,7 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
  
 | Day | Topic / Brand | Challenge Description        | Code & Notes                    |
 |-----|---------------|-------------------------------|---------------------------------|
-| 1   | WhatsApp      | Group messaging analysis      | [Day 1](./day01_whatsapp/)     |
+| 1   | WhatsApp      | Group messaging analysis      | [Day 1](day01_whatsapp)     |
 | 2   | 🔒 Locked     | To be unlocked                | –                               |
 | 3   | 🔒 Locked     | To be unlocked                | –                               |
 | 4   | 🔒 Locked     | To be unlocked                | –                               |
