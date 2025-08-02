@@ -26,8 +26,8 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
  
 | Day | Topic / Brand | Challenge Description        | Code & Notes                    |
 |-----|---------------|-------------------------------|---------------------------------|
-| 1   | WhatsApp      | Group messaging analysis      | [Day 1](day01_whatsapp)     |
-| 2   | 🔒 Locked     | To be unlocked                | –                               |
+| 1   | WhatsApp      | WhatsApp Group Size Engagement Analysis | [Day 1](day01_whatsapp)     |
+| 2   | Amazon        | Sponsored Posts Click Performance|[Day 2](day02_amazon)                               |
 | 3   | 🔒 Locked     | To be unlocked                | –                               |
 | 4   | 🔒 Locked     | To be unlocked                | –                               |
 | 5   | 🔒 Locked     | To be unlocked                | –                               |
