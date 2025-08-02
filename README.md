@@ -7,7 +7,7 @@ This repository documents my progress through the <strong>15-day Python Summer P
 
 Each day, a new challenge is unlocked – inspired by real-world brands – with tasks covering Python fundamentals, data wrangling, logic building, and clean code practices. The best part? It’s fun, community-powered, and completely free.
 
-![Progress](https://img.shields.io/badge/Progress-1%2F15-blue)
+![Progress](https://img.shields.io/badge/Progress-2%2F15-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![Hosted by Interview Master](https://img.shields.io/badge/Challenge-Interview%20Master-yellow)
 
