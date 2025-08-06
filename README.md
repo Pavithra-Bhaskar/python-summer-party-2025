@@ -53,7 +53,7 @@ python-summer-party/
 │   ├── challenge01.py             # My solution
 │   ├── notes01.md                 # Summary, reflection, and learnings
 │   └── dataset_preview01.png      # Screenshot of the dataset
-├── day02_<brand>/                 # Coming soon...
+├── day02_<brand>/                 # so on..
 ```
 
 ## 👏 Special thanks to our mentors and hosts:
