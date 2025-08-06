@@ -28,8 +28,8 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
 |-----|---------------|-------------------------------|---------------------------------|
 | 1   | WhatsApp      | WhatsApp Group Size Engagement Analysis | [Day 1](day01_whatsapp)|
 | 2   | Amazon        | Sponsored Posts Click Performance|[Day 2](day02_amazon) |
-| 3   | 🔒 Locked     |Disney Parks Guest Spending Behavior|[Day 3](day03_disney)  |
-| 4   | 🔒 Locked     | Search Results Page: User Interaction Patterns|[Day 4](day04_google)|
+| 3   |Disney    |Disney Parks Guest Spending Behavior|[Day 3](day03_disney)  |
+| 4   | Google    | Search Results Page: User Interaction Patterns|[Day 4](day04_google)|
 | 5   | 🔒 Locked     | To be unlocked                | –                               |
 | 6   | 🔒 Locked     | To be unlocked                | –                               |
 | 7   | 🔒 Locked     | To be unlocked                | –                               |
