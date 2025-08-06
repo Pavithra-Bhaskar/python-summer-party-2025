@@ -7,7 +7,7 @@ This repository documents my progress through the <strong>15-day Python Summer P
 
 Each day, a new challenge is unlocked – inspired by real-world brands – with tasks covering Python fundamentals, data wrangling, logic building, and clean code practices. The best part? It’s fun, community-powered, and completely free.
 
-![Progress](https://img.shields.io/badge/Progress-2%2F15-blue)
+![Progress](https://img.shields.io/badge/Progress-4%2F15-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![Hosted by Interview Master](https://img.shields.io/badge/Challenge-Interview%20Master-yellow)
 
@@ -26,10 +26,10 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
  
 | Day | Topic / Brand | Challenge Description        | Code & Notes                    |
 |-----|---------------|-------------------------------|---------------------------------|
-| 1   | WhatsApp      | WhatsApp Group Size Engagement Analysis | [Day 1](day01_whatsapp)     |
-| 2   | Amazon        | Sponsored Posts Click Performance|[Day 2](day02_amazon)                               |
-| 3   | 🔒 Locked     | To be unlocked                | –                               |
-| 4   | 🔒 Locked     | To be unlocked                | –                               |
+| 1   | WhatsApp      | WhatsApp Group Size Engagement Analysis | [Day 1](day01_whatsapp)|
+| 2   | Amazon        | Sponsored Posts Click Performance|[Day 2](day02_amazon) |
+| 3   | 🔒 Locked     |Disney Parks Guest Spending Behavior|[Day 3](day03_disney)  |
+| 4   | 🔒 Locked     | Search Results Page: User Interaction Patterns|[Day 4](day04_google)|
 | 5   | 🔒 Locked     | To be unlocked                | –                               |
 | 6   | 🔒 Locked     | To be unlocked                | –                               |
 | 7   | 🔒 Locked     | To be unlocked                | –                               |
