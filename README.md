@@ -56,7 +56,7 @@ python-summer-party/
 ├── day02_<brand>/                 # so on..
 ```
 
-## 👏 Special thanks to our mentors and hosts:
+## 👏 Special thanks to our hosts:
 
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/)
 - [Sai Bysani](https://www.linkedin.com/in/saibysani18/)
