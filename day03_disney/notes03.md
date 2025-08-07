@@ -1,5 +1,5 @@
 # 🎢 Disney Parks Guest Spending Behavior
-Company: WhatsApp ◆ Difficulty: Hard
+Company: Disney ◆ Difficulty: Hard
 
 You are a data analyst working with the Disney Parks revenue team to understand nuanced guest spending patterns across different park experiences. The team wants to develop a comprehensive view of visitor purchasing behaviors. Your goal is to uncover meaningful insights that can drive personalized marketing strategies.
 
