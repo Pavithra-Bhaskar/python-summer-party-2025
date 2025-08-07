@@ -1,4 +1,5 @@
 # 📅 Day 4: Google Challenge – Search Results Interaction Analysis
+Company: Google ◆ Difficulty: Easy
 
 You are a Product Analyst on the Google Search team investigating user engagement with search result pages.  
 The team wants to understand how different numbers of search results impact user interaction time.  
