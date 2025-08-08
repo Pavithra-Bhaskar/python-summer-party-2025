@@ -1,4 +1,4 @@
-# 🎉 Python Summer Party 2025 🎉
+# Python Summer Party 2025 
 **by [Interview Master](https://www.interviewmaster.ai) — in partnership with [DataCamp](https://www.datacamp.com)**
 <img align="right" src="https://file.notion.so/f/f/fd0b536c-b699-40a0-8c86-7dc815d1bc6b/fcb71de5-8ab3-4bac-9701-fb634055ac1d/panda_party_home2.gif?table=block&id=2247bd8f-2603-800b-a26e-dc8d789d158e&spaceId=fd0b536c-b699-40a0-8c86-7dc815d1bc6b&expirationTimestamp=1754100000000&signature=BfCDht8WeDIt9sDqAhsxOvtxBPBYvgdrlChEIc7GU4E&downloadName=panda_party_home2.gif" width="230"/>
 
