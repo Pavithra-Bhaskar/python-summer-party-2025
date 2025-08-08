@@ -65,5 +65,4 @@ You will leverage historical pre-sale transaction data to extract meaningful ins
   - `.dt.to_period('M')`
 
 ---
-
-DAY 5 done! Exicted for day 6!
+🏁 Day 5: Done! On to the next challenge 🚀
