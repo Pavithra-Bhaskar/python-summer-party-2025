@@ -1,9 +1,9 @@
  
-###Nike : Celebrity Product Drops Sales Performance Analysis
+### Nike : Celebrity Product Drops Sales Performance Analysis
+Company: Nike ◆ Difficulty: Easy ◆
 
 You are a Product Analyst working on Nike's marketing performance team. Your team wants to evaluate the effectiveness of celebrity product collaborations by analyzing sales data. 
 You will investigate the performance of celebrity product drops to inform future marketing strategies.
----
 
 ## ✅ What I Learned
 
