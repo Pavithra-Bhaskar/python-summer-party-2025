@@ -7,7 +7,7 @@ This repository documents my progress through the <strong>15-day Python Summer P
 
 Each day, a new challenge is unlocked – inspired by real-world brands – with tasks covering Python fundamentals, data wrangling, logic building, and clean code practices. The best part? It’s fun, community-powered, and completely free.
 
-![Progress](https://img.shields.io/badge/Progress-4%2F15-blue)
+![Progress](https://img.shields.io/badge/Progress-7%2F15-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![Hosted by Interview Master](https://img.shields.io/badge/Challenge-Interview%20Master-yellow)
 
@@ -30,9 +30,9 @@ Each day, a new challenge is unlocked – inspired by real-world brands – with
 | 2   | Amazon        | Sponsored Posts Click Performance|[Day 2](day02_amazon) |
 | 3   |Disney    |Disney Parks Guest Spending Behavior|[Day 3](day03_disney)  |
 | 4   | Google    | Search Results Page: User Interaction Patterns|[Day 4](day04_google)|
-| 5   | 🔒 Locked     | To be unlocked                | –                               |
-| 6   | 🔒 Locked     | To be unlocked                | –                               |
-| 7   | 🔒 Locked     | To be unlocked                | –                               |
+| 5   | Nintendo     |Switch 2 Pre-sales Demand Forecasting | [Day 5](day05_nintendo)|
+| 6   | Ben & Jerry's |  Ice Cream Sales Seasonal Performance Assessment | [Day 6](day06_ben_&_jerry's)|
+| 7   |Nike   |Celebrity Product Drops Sales Performance Analysis |[Day 7](day07_nike) |
 | 8   | 🔒 Locked     | To be unlocked                | –                               |
 | 9   | 🔒 Locked     | To be unlocked                | –                               |
 | 10  | 🔒 Locked     | To be unlocked                | –                               |
