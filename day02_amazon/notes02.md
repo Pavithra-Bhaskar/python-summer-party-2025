@@ -24,19 +24,6 @@ Your task is to evaluate product categories that outperform average click-throug
 → Quantifies how much better they perform than average.  
 
 ---
-
-## 🧠 What I Learned  
-
-- Filtered for **October 2024** data.  
-- Used `.str.contains("Electronics")` to filter category names.  
-- Grouped by `product_category` to get average CTR.  
-- Computed overall average CTR and compared each category to it.  
-- Filtered categories with CTR above the average.  
-- Calculated percentage difference using:
-
-  ```python
-  ((category_CTR - overall_avg_CTR) / overall_avg_CTR) * 100
-  
 ## 🧠 What I Learned  
 - Convert `recorded_date` to datetime using `pd.to_datetime()` for accurate date filtering.  
 - Use `.dt.month` and `.dt.year` for date-based filtering like October 2024.  
